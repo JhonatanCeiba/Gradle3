@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gradle.BookTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-07-27T14:43:27" hostname="jhonatan-giraldo" time="0.002">
+  <properties/>
+  <testcase name="Testeo" classname="org.gradle.BookTest" time="0.001"/>
+  <testcase name="Sencila" classname="org.gradle.BookTest" time="0.0"/>
+  <testcase name="Testeo2" classname="org.gradle.BookTest" time="0.0"/>
+  <testcase name="Testeo3" classname="org.gradle.BookTest" time="0.0"/>
+  <testcase name="Testeo4" classname="org.gradle.BookTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
