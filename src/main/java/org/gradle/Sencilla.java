@@ -4,9 +4,17 @@ package org.gradle;
  * Class
  */
 public class Sencilla {
+	/*
+	 * This is a  comment
+	 */
 	public String saludo;
 	public String nombre;
 	
+	/**
+	  * Class comment...
+	  * @param saludo
+	  * @param nombre
+	  */
 	public Sencilla (String saludo, String nombre)
 	{
 		this.setNombre(nombre);
